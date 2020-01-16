@@ -189,7 +189,7 @@ async function main() {
         console.log(`${APPNAME}
 A command-line app to convert a given number into words using Indian or western numbering system.
 
-Usage: n2w [options] []
+Usage: n2w [options] [number]
 
 Options:
     -h, --help       display the help menu
